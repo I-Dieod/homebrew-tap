@@ -1,7 +1,7 @@
 class Tds < Formula
   desc "Fast TODO comment scanner for your codebase"
   homepage "https://github.com/I-Dieod/TodoScanner"
-  url "https://github.com/YOUR_USERNAME/TodoScanner/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/I-Dieod/TodoScanner/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "5ba82770b3414f72aaa355ff3f8f47c9c469fa9e18ae44a2902b9a4470d6eadd"
   license "MIT"
 
