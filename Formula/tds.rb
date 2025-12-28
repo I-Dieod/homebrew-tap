@@ -17,8 +17,8 @@ class Tds < Formula
       // TODO: Test comment
       fn main() {}
     EOS
-    
-    output = shell_output("#{bin}/TodoScanner #{testpath}")
+
+    output = shell_output("#{bin}/tds #{testpath}")
     assert_match "Found 1 TODO items", output
   end
 end
