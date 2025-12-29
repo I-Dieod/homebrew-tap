@@ -1,8 +1,8 @@
 class Tds < Formula
   desc "Fast TODO comment scanner for your codebase"
   homepage "https://github.com/I-Dieod/TodoScanner"
-  url "https://github.com/I-Dieod/TodoScanner/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "f2afe11e469036e8af3344e546d85df70fbe6340241c156309b6b904f520befa"
+  url "https://github.com/I-Dieod/TodoScanner/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "71884c2a321ce176e6252ddce61421e81e277ebca364a964b97680c3181894d3"
   license "MIT"
 
   depends_on "rust" => :build
